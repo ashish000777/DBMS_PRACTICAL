@@ -11,7 +11,7 @@ local   80.00 KiB
 test> use book
 switched to db book
 
-//to show all the connections
+//to show all the collections
 book> show collections
 library
 Library
